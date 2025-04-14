@@ -1,0 +1,14 @@
+/home/sifat/Documents/c#dev/InterviewProg/bin/Debug/net8.0/InterviewProg
+/home/sifat/Documents/c#dev/InterviewProg/bin/Debug/net8.0/InterviewProg.deps.json
+/home/sifat/Documents/c#dev/InterviewProg/bin/Debug/net8.0/InterviewProg.runtimeconfig.json
+/home/sifat/Documents/c#dev/InterviewProg/bin/Debug/net8.0/InterviewProg.dll
+/home/sifat/Documents/c#dev/InterviewProg/bin/Debug/net8.0/InterviewProg.pdb
+/home/sifat/Documents/c#dev/InterviewProg/obj/Debug/net8.0/InterviewProg.GeneratedMSBuildEditorConfig.editorconfig
+/home/sifat/Documents/c#dev/InterviewProg/obj/Debug/net8.0/InterviewProg.AssemblyInfoInputs.cache
+/home/sifat/Documents/c#dev/InterviewProg/obj/Debug/net8.0/InterviewProg.AssemblyInfo.cs
+/home/sifat/Documents/c#dev/InterviewProg/obj/Debug/net8.0/InterviewProg.csproj.CoreCompileInputs.cache
+/home/sifat/Documents/c#dev/InterviewProg/obj/Debug/net8.0/InterviewProg.dll
+/home/sifat/Documents/c#dev/InterviewProg/obj/Debug/net8.0/refint/InterviewProg.dll
+/home/sifat/Documents/c#dev/InterviewProg/obj/Debug/net8.0/InterviewProg.pdb
+/home/sifat/Documents/c#dev/InterviewProg/obj/Debug/net8.0/InterviewProg.genruntimeconfig.cache
+/home/sifat/Documents/c#dev/InterviewProg/obj/Debug/net8.0/ref/InterviewProg.dll
