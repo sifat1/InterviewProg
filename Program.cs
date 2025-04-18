@@ -20,5 +20,6 @@ foreach(var item in result)
 
 //Console.WriteLine(res);
 
-
-ProgramMat.Main();
+string file = "myfile";
+CreateFile.WriteFile(file);
+CreateFile.ReadFile(file);

@@ -12,3 +12,4 @@
 /home/sifat/Documents/c#dev/InterviewProg/obj/Debug/net8.0/InterviewProg.pdb
 /home/sifat/Documents/c#dev/InterviewProg/obj/Debug/net8.0/InterviewProg.genruntimeconfig.cache
 /home/sifat/Documents/c#dev/InterviewProg/obj/Debug/net8.0/ref/InterviewProg.dll
+/home/sifat/Documents/c#dev/InterviewProg/obj/Debug/net8.0/InterviewProg.sourcelink.json
