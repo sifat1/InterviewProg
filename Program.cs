@@ -2,6 +2,7 @@
 
 
 using System.Runtime.CompilerServices;
+using CsharpString;
 
 /*
 int[] arr = [-8, 2, 3, -6, 10];
@@ -14,12 +15,15 @@ foreach(var item in result)
 
 */
 
+
+Test.Main();
+
 //int[] arr = [2, 5, -1, 7, -3, -1, -2];
 
 //int res = SumOfKsubArray.SumOfK(arr,4);
 
 //Console.WriteLine(res);
 
-string file = "myfile";
-CreateFile.WriteFile(file);
-CreateFile.ReadFile(file);
+//string file = "myfile";
+//CreateFile.WriteFile(file);
+//CreateFile.ReadFile(file);
