@@ -3,6 +3,7 @@
 
 using System.Runtime.CompilerServices;
 using CsharpString;
+using Indexerclass;
 
 /*
 int[] arr = [-8, 2, 3, -6, 10];
@@ -16,7 +17,7 @@ foreach(var item in result)
 */
 
 
-Test.Main();
+//Test.Main();
 
 //int[] arr = [2, 5, -1, 7, -3, -1, -2];
 
@@ -27,3 +28,9 @@ Test.Main();
 //string file = "myfile";
 //CreateFile.WriteFile(file);
 //CreateFile.ReadFile(file);
+
+
+Employee employee = new(1,2);
+
+Console.WriteLine(employee[0]);
+Console.WriteLine(employee[1]);
